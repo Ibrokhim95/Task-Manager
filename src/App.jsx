@@ -36,7 +36,7 @@ const App = () => {
         <List inputRef={inputRef}/>
       </TasksContext.Provider>
 
-      <h1 className='m-[100px] mb-[30px]'>This is made by <a className='text-blue-600' href="#">Ibrokhim</a></h1>
+      <h1 className='m-[100px] mb-[30px]'>This is made by <a className='text-blue-600' href="https://i-khamraev.netlify.app/" target={"_blank"}>Ibrokhim</a></h1>
     </div>
   )
 }
